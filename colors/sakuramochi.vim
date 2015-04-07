@@ -30,15 +30,14 @@ hi Menu ctermfg=none ctermbg=46
 hi Scrollbar ctermfg=none ctermbg=46
 hi Tooltip ctermfg=none ctermbg=46
 
-hi SpecialChar ctermfg=45 ctermbg=none
 hi Tag ctermfg=45 ctermbg=none
-hi Delimiter ctermfg=45 ctermbg=none
 hi SpecialComment ctermfg=45 ctermbg=none
 hi Debug ctermfg=45 ctermbg=none
 hi Underlined ctermfg=45 ctermbg=none
 hi Ignore ctermfg=45 ctermbg=none
-hi Error ctermfg=45 ctermbg=none
 hi Todo ctermfg=45 ctermbg=none
+
+hi SpecialKey ctermfg=96 ctermbg=none
 
 hi Function ctermfg=131 ctermbg=none
 hi StorageClass ctermfg=131 ctermbg=none
@@ -68,15 +67,20 @@ hi Number ctermfg=146 ctermbg=none
 hi Boolean ctermfg=146 ctermbg=none
 hi Float ctermfg=146 ctermbg=none
 
+hi Error ctermfg=196 ctermbg=none
+
 hi NonText ctermfg=200 ctermbg=none
+
 hi Directory ctermfg=205 ctermbg=none
 
+hi Delimiter ctermfg=219 ctermbg=none
+
+hi SpecialChar ctermfg=224 ctermbg=none
 hi MatchParen ctermfg=224 ctermbg=240
 hi Type ctermfg=225 ctermbg=none
 
 hi Comment ctermfg=243 ctermbg=none cterm=bold
 hi Special ctermfg=243 ctermbg=none
-hi SpecialKey ctermfg=243 ctermbg=none
 
 hi Normal ctermfg=251 ctermbg=236
 hi Identifier ctermfg=251 ctermbg=none
