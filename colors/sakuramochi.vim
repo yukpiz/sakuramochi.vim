@@ -41,6 +41,7 @@ hi Function ctermfg=131 ctermbg=none
 hi StorageClass ctermfg=131 ctermbg=none
 hi Structure ctermfg=131 ctermbg=none
 hi Typedef ctermfg=131 ctermbg=none
+hi Special ctermfg=131 ctermbg=none
 
 hi PreProc ctermfg=132 ctermbg=none
 hi Include ctermfg=132 ctermbg=none
@@ -79,7 +80,6 @@ hi SpecialChar ctermfg=224 ctermbg=none
 hi MatchParen ctermfg=224 ctermbg=240
 hi Type ctermfg=225 ctermbg=none
 
-hi Special ctermfg=243 ctermbg=none
 hi Comment ctermfg=245 ctermbg=none cterm=bold
 hi SpecialComment ctermfg=245 ctermbg=none cterm=bold
 hi VimCommentTitle ctermfg=95 ctermbg=none cterm=bold
