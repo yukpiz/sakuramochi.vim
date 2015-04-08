@@ -4,6 +4,7 @@ if exists('syntax_on')
 endif
 
 let g:colors_name = 'sakuramochi'
+set background=dark
 
 " Normal  
 " Comment  Comment of filetype.
@@ -84,7 +85,7 @@ hi Comment ctermfg=245 ctermbg=none cterm=bold
 hi SpecialComment ctermfg=245 ctermbg=none cterm=bold
 hi VimCommentTitle ctermfg=95 ctermbg=none cterm=bold
 
-hi Normal ctermfg=251 ctermbg=236
+hi Normal ctermfg=251 ctermbg=none
 hi Identifier ctermfg=251 ctermbg=none
 
 
