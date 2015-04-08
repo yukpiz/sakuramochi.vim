@@ -82,6 +82,7 @@ hi Type ctermfg=225 ctermbg=none
 hi Special ctermfg=243 ctermbg=none
 hi Comment ctermfg=245 ctermbg=none cterm=bold
 hi SpecialComment ctermfg=245 ctermbg=none cterm=bold
+hi VimCommentTitle ctermfg=95 ctermbg=none cterm=bold
 
 hi Normal ctermfg=251 ctermbg=236
 hi Identifier ctermfg=251 ctermbg=none
