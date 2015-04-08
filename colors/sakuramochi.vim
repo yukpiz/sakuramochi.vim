@@ -20,8 +20,7 @@ hi DiffChange ctermfg=none ctermbg=46
 hi DiffDelete ctermfg=none ctermbg=46
 hi DiffText ctermfg=none ctermbg=46
 hi SignColumn ctermfg=none ctermbg=46
-hi IncSearch ctermfg=none ctermbg=46
-hi Search ctermfg=none ctermbg=46
+
 hi SpellBad ctermfg=none ctermbg=46
 hi SpellCap ctermfg=none ctermbg=46
 hi SpellLocal ctermfg=none ctermbg=46
@@ -31,7 +30,6 @@ hi Scrollbar ctermfg=none ctermbg=46
 hi Tooltip ctermfg=none ctermbg=46
 
 hi Tag ctermfg=45 ctermbg=none
-hi SpecialComment ctermfg=45 ctermbg=none
 hi Debug ctermfg=45 ctermbg=none
 hi Underlined ctermfg=45 ctermbg=none
 hi Ignore ctermfg=45 ctermbg=none
@@ -75,12 +73,15 @@ hi Directory ctermfg=205 ctermbg=none
 
 hi Delimiter ctermfg=219 ctermbg=none
 
+hi IncSearch ctermfg=224 ctermbg=168
+hi Search ctermfg=224 ctermbg=168
 hi SpecialChar ctermfg=224 ctermbg=none
 hi MatchParen ctermfg=224 ctermbg=240
 hi Type ctermfg=225 ctermbg=none
 
-hi Comment ctermfg=243 ctermbg=none cterm=bold
 hi Special ctermfg=243 ctermbg=none
+hi Comment ctermfg=245 ctermbg=none cterm=bold
+hi SpecialComment ctermfg=245 ctermbg=none cterm=bold
 
 hi Normal ctermfg=251 ctermbg=236
 hi Identifier ctermfg=251 ctermbg=none
