@@ -6,14 +6,6 @@ endif
 let g:colors_name = 'sakuramochi'
 set background=dark
 
-" Normal  
-" Comment  Comment of filetype.
-" Cursor  
-" CursorLine  
-" Constant  
-" Define  
-" TODO:
-
 hi CursorColumn ctermfg=none ctermbg=46
 hi Conceal ctermfg=none ctermbg=46
 hi CursorIM ctermfg=none ctermbg=46
