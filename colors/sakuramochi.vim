@@ -12,16 +12,12 @@ set background=dark
 " CursorLine  
 " Constant  
 " Define  
+" TODO:
 
 hi CursorColumn ctermfg=none ctermbg=46
 hi Conceal ctermfg=none ctermbg=46
 hi CursorIM ctermfg=none ctermbg=46
-hi DiffAdd ctermfg=none ctermbg=46
-hi DiffChange ctermfg=none ctermbg=46
-hi DiffDelete ctermfg=none ctermbg=46
-hi DiffText ctermfg=none ctermbg=46
 hi SignColumn ctermfg=none ctermbg=46
-
 hi SpellBad ctermfg=none ctermbg=46
 hi SpellCap ctermfg=none ctermbg=46
 hi SpellLocal ctermfg=none ctermbg=46
@@ -34,7 +30,6 @@ hi Tag ctermfg=45 ctermbg=none
 hi Debug ctermfg=45 ctermbg=none
 hi Underlined ctermfg=45 ctermbg=none
 hi Ignore ctermfg=45 ctermbg=none
-hi Todo ctermfg=45 ctermbg=none
 
 hi SpecialKey ctermfg=96 ctermbg=none
 
@@ -67,6 +62,8 @@ hi Number ctermfg=146 ctermbg=none
 hi Boolean ctermfg=146 ctermbg=none
 hi Float ctermfg=146 ctermbg=none
 
+hi Todo ctermfg=163 ctermbg=none
+
 hi Error ctermfg=196 ctermbg=none
 
 hi NonText ctermfg=200 ctermbg=none
@@ -80,6 +77,10 @@ hi Search ctermfg=224 ctermbg=168
 hi SpecialChar ctermfg=224 ctermbg=none
 hi MatchParen ctermfg=224 ctermbg=240
 hi Type ctermfg=225 ctermbg=none
+hi DiffAdd ctermfg=224 ctermbg=95
+hi DiffChange ctermfg=224 ctermbg=95
+hi DiffDelete ctermfg=224 ctermbg=95
+hi DiffText ctermfg=224 ctermbg=95
 
 hi Comment ctermfg=245 ctermbg=none cterm=bold
 hi SpecialComment ctermfg=245 ctermbg=none cterm=bold
