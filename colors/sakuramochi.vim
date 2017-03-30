@@ -78,7 +78,7 @@ hi Comment ctermfg=245 ctermbg=none cterm=bold
 hi SpecialComment ctermfg=245 ctermbg=none cterm=bold
 hi VimCommentTitle ctermfg=95 ctermbg=none cterm=bold
 
-hi Normal ctermfg=251 ctermbg=none
+hi Normal ctermfg=251 ctermbg=none guibg=#8B668B guifg=#000000
 hi Identifier ctermfg=251 ctermbg=none
 
 
